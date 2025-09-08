@@ -20,7 +20,8 @@ A simple React-based Quiz Application where users can answer multiple-choice que
 <img width="1303" height="636" alt="2" src="https://github.com/user-attachments/assets/03b8a169-000c-4a33-bbdc-69360e8edc4e" />
 <img width="1303" height="636" alt="1" src="https://github.com/user-attachments/assets/fcd7f5ad-0326-4f93-9e43-4545de08dd59" />
 
-
+LIVE DEMO :
+https://quiz-game-s8bp.vercel.app/
 
 🔮 Future Enhancements
 
