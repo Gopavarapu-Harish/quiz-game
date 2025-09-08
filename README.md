@@ -1,4 +1,4 @@
-<img width="1303" height="636" alt="Screenshot from 2025-09-08 19-14-12" src="https://github.com/user-attachments/assets/3ff9cac6-201b-4a2a-9972-3fc364219d21" /># 🎯 Quiz Game
+ 🎯 Quiz Game
 
 A simple React-based Quiz Application where users can answer multiple-choice questions and view their score at the end.  
 
